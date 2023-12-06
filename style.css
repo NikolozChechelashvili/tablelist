@@ -1,0 +1,104 @@
+img{
+    width: 40px;
+    height: 32px;
+    gap: 8px;
+}
+.first{
+    height: 31px;
+    width: 43px;
+    border-radius: 8px;
+    padding: 8px 9px 8px 9px;
+    gap: 4px;
+}
+.add{
+    width: 139px;
+    height: 32px;
+    border-radius: 8px;
+    padding: 8px 12px 8px 12px;
+    gap: 8px;
+    background-color: #624DE3;
+    float: right;
+}
+.show{
+    width: 1100px;
+    height: 64px;
+}
+table, tr,td{
+    align-items: center;
+    width: 100%;
+
+}
+.pirveli{
+    width: 1500px;
+    height: 64px;
+    padding: 16px;
+    gap: 150px;
+    display: flex;
+    background-color: #FFFFFF;
+    align-items: center;
+}
+.meore{
+    width: 1500px;
+    height: 64px;
+    padding: 16px;
+    gap: 150px;
+    background-color: #F7F6FE;
+    display: flex;
+    align-items: center;
+    
+}
+.delivered{
+    width: 83px;
+    height: 31px;
+    border-radius: 22px;
+    padding: 8px 12px 8px 12px;
+    gap: 10px;
+    background-color: #EBF9F1;
+    color: #1f9254;
+    width: 59px;
+    height: 15px;
+    display: flex;
+  
+}
+.process{
+    width: 83px;
+    height: 31px;
+    border-radius: 22px;
+    gap: 10px;
+    background-color: #FEF2E5;
+    color: #CD6200;
+    padding: 8px 12px 8px 12px;
+    width: 59px;
+    height: 15px;
+    display: flex;
+   
+}
+
+.canceled{
+    width: 83px;
+    height: 31px;
+    border-radius: 22px;
+    padding: 8px 12px 8px 12px;
+    gap: 10px;
+    background-color: #FBE7E8;
+    color:  #A30D11;
+    width: 57px;
+    height: 15px;
+    display: flex;
+}
+.bolo{
+    width: 1100px;
+    height: 63px;
+    top: 1307px;
+    padding: 16px;
+    gap: 668px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gadasvla{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
